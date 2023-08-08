@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.thymeleaf.content-type",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.thymeleaf.content-type'"
+  },
+  {
+    "name": "content-service",
+    "type": "java.lang.String",
+    "description": "A description for 'content-service'"
+  }
+]}
